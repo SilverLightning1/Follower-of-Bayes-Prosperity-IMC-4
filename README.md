@@ -14,9 +14,8 @@ IMC Prosperity 4 attracted:
 The competition consisted of five rounds of algorithmic trading challenges requiring participants to develop and refine trading strategies under dynamic market conditions.
 
 ## 👥 Team
-
+- Sanjit Subramaniam
 - Akshith Saravanan
-- Sanjit Subramanian
 - Chendur Jayavelu
 
 ## 🏆 Results
